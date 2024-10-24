@@ -1,10 +1,9 @@
 # Reto semanal modificar el programa o ejercicio de M4S14ejercicioManejoDeArchivos.py
 
-# * El verdadero trabajo o programa de agenda es el archivo llamado: *
-"""            retoSemanaM4S14.py              """
+# * El verdadero trabajo o programa de agenda es el archivo llamado: *   retoSemanaM4S14.py    *
 
-##########################################################################################################################
-Sin duda alguna el manejo de archivos tienen casi casi innidad de propositos, noo puedo esperar para seguir aprendiendo. en este caso que es solo una genda me dejo pensando en diferentes usos ademas de que seguro que en vez de guardar o abrir una extencion .txt  se a de poder usar de muchas formas facinado con el manejo de archivos y un leve ejempolo para una dde sus aplicaciones
+######################################################################################
+Sin duda alguna el manejo de archivos tienen casi casi infinidad de propositos, no puedo esperar para seguir aprendiendo. en este caso que es solo una agenda me dejo pensando en diferentes usos ademas de que seguro que en vez de guardar o abrir una extencion .txt  se a de poder usar de muchas formas. Facinado con el manejo de archivos y un leve ejemplo para una de sus aplicaciones.
 
 # Agenda de Contactos en Python
 
@@ -29,4 +28,4 @@ Este es un programa sencillo en Python que permite gestionar una agenda de conta
 Puedes ejecutar el programa desde la terminal o línea de comandos usando el siguiente comando:
 
 ```bash
-python nombre_del_archivo.py   0  python S14retoDeLaSemana.py
+python nombre_del_archivo.py   0  python retoSemanaM4S14.py
